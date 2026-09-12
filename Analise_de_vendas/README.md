@@ -1,4 +1,4 @@
-# 📊 Sistema de Registro de Vendas
+# 📊 O programa Analise de Vendas.
 
 > Projeto desenvolvido durante os estudos de fundamentos de programação em Java, reunindo diferentes conceitos trabalhados no curso de Ciência da Computação.
 
