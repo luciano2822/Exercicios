@@ -1,0 +1,71 @@
+Sistema de Registro de Vendas
+
+Programa desenvolvido durante os estudos de fundamentos de programação em Java, com o objetivo de reunir e aplicar diferentes conceitos trabalhados até o momento no curso de Ciência da Computação.
+
+O programa utiliza dados fictícios de vendas de uma lanchonete para organizar e processar a quantidade de produtos vendidos ao longo dos dias da semana.
+
+Sobre o projeto
+
+O sistema recebe informações referentes aos dias da semana, produtos comercializados e suas respectivas quantidades de vendas.
+
+A partir desses dados, o programa:
+
+Organiza os registros de vendas em uma matriz;
+Regulariza uma matriz inicialmente com linhas de tamanhos diferentes;
+Calcula a quantidade total de produtos vendidos em cada dia;
+Calcula a quantidade total de vendas de cada produto;
+Calcula a média diária de vendas por produto;
+Exibe os resultados de forma organizada no console.
+Conceitos praticados
+
+Este exercício foi desenvolvido para consolidar os seguintes conceitos:
+
+Variáveis e tipos de dados;
+Arrays;
+Matrizes;
+Matrizes de tamanhos variados;
+Estruturas condicionais (if);
+Estruturas de repetição (for e for-each);
+Métodos;
+Modularização;
+Passagem de arrays e matrizes como parâmetros;
+Retorno de valores por métodos;
+Manipulação de String;
+Formatação de saída no console;
+Uso da classe Arrays da biblioteca padrão do Java.
+Organização do código
+
+O programa foi dividido em métodos com responsabilidades específicas:
+
+main()
+
+Responsável por armazenar os dados iniciais e realizar as chamadas dos métodos utilizados pelo programa.
+
+matrizRegular()
+
+Cria uma nova matriz com dimensões definidas pela quantidade de dias e produtos e transfere os valores da matriz original para ela.
+
+vendasPorDia()
+
+Percorre a matriz de vendas e calcula a quantidade total de produtos vendidos em cada dia.
+
+vendasDeProdutos()
+
+Percorre a matriz e calcula a quantidade total de vendas de cada produto durante a semana.
+
+imprimirTabela()
+
+Organiza e apresenta os dados processados no console, incluindo os registros de vendas, totais, médias e vendas por dia.
+
+maiorDia()
+
+Identifica o maior nome entre os dias da semana para auxiliar na organização do espaçamento da tabela exibida no console.
+
+Tecnologias
+Java
+IntelliJ IDEA
+Objetivo do exercício
+
+O principal objetivo deste exercício foi praticar a integração de diferentes conceitos de programação em uma única aplicação, em vez de trabalhá-los de forma isolada.
+
+Este projeto faz parte do meu conjunto de exercícios e projetos acadêmicos selecionados, utilizados para registrar minha evolução durante os estudos de Ciência da Computação.
