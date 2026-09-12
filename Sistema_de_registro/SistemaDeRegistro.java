@@ -5,7 +5,7 @@
 
 import java.util.Arrays;
 
-public class Sistema_de_registro{
+public class SistemaDeRegistro {
 
     /*
     * Na principal serão inseridos os dados a serem processados e serão realizadas as invocações
