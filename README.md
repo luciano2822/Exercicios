@@ -1,2 +1,2 @@
 # Exercicios
-Exercícios e projetos acadêmicos selecionados, reunindo diferentes conceitos de programação.
+Pequenos exercícios com o objetivo de fixar melhor os conceitos e conteúdos estudados.
